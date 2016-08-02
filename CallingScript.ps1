@@ -22,7 +22,7 @@ Login-AzureRmAccount
 
 # Adjust the 'yournamehere' part of these three strings to
 # something unique for you. Leave the last two characters in each.
-$URI       = 'https://raw.githubusercontent.com/marhod/ARM-DemoEnv/master/azuredeploy.json'
+$URI       = 'https://raw.githubusercontent.com/marhod/ARM-DemoEnv/d9d405aeff6386856657f2395d1590dd3e580779/azuredeploy.json'
 $Location  = 'australiaeast'
 $rgname    = 'mrhodesrg'
 $saname    = 'mrhodessa'     # Lowercase required
