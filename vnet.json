@@ -9,7 +9,8 @@
         "East US",
         "West Europe",
         "East Asia",
-        "Southeast Asia"
+        "Southeast Asia",
+        "australiaeast"
       ],
       "metadata": {
         "Description": "The region to deploy the resources into"
