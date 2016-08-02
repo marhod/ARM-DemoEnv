@@ -30,7 +30,7 @@
         "West Europe",
         "East Asia",
         "Southeast Asia",
-        "AustraliaEast"
+        "australiaeast"
       ],
       "metadata": {
         "description": "The region to deploy the resources into"
