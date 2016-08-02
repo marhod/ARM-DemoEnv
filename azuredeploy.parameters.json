@@ -9,7 +9,7 @@
       "value": "Standard_GRS"
     },
     "location": {
-      "value": "West US"
+      "value": "australiaeast"
     },
     "adminUsername": {
       "value": "azureuser"
@@ -27,7 +27,7 @@
       "value": "GEN-UNIQUE"
     },
     "assetLocation": {
-      "value": "https://raw.githubusercontent.com/GoateePFE/AzureRM/master/active-directory-new-domain-with-data/"
+      "value": "https://raw.githubusercontent.com/marhod/ARM-DemoEnv/master/"
     }
   }
 }
